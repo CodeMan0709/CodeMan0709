@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeMan0709
-- 👀 I’m interested in Coding and sports
-- 🌱 I’m currently learning C and python
-- 💞️ I’m looking to collaborate on Ml projects
+- 🌱 I’m currently learning C++ and Python
+- 💞️ I’m looking to collaborate on ML projects
+- I am interested in Backend Web Developement
 - 📫 How to reach me Drop a mail at f20212091@hyderabad.bits-pilani.ac.in
 
 <!---
